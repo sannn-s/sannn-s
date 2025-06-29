@@ -1,4 +1,7 @@
-# Hi there👋 I'am Ahsan
+
+<div align="center">
+  # Hi there👋 I'am Ahsan
+</div>
 
 # About Me:
 I am an informatics engineering student at Maulana Malik Ibrahim Islamic University, Malang. <br>I am adaptable, collaborative, and enjoy working in a team. <br>I always try to develop my skills to be better than the previous day
@@ -19,13 +22,5 @@ I am an informatics engineering student at Maulana Malik Ibrahim Islamic Univers
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sannn-s&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<div align="center">
-  <a href="https://open.spotify.com/user/sannn">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sannn&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
