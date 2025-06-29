@@ -5,8 +5,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 I am an informatics engineering student at Maulana Malik Ibrahim Islamic University, Malang. <br>I am adaptable, collaborative, and enjoy working in a team. <br>I always try to develop my skills to be better than the previous day
 
-###
-<h3 align="left">My Social Media</h3>
+### <h3 align="left">My Social Media</h3>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/welpleddd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aanahsan46@gmail.com) 
 
 # Tech Stack:
