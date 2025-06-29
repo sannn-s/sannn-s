@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" fw = 20px>
   Hi there👋 I'am Ahsan
 </div>
 
