@@ -1,6 +1,6 @@
 # Hi there👋 I'am Ahsan
 
-# 💫 About Me:
+# About Me:
 I am an informatics engineering student at Maulana Malik Ibrahim Islamic University, Malang. <br>I am adaptable, collaborative, and enjoy working in a team. <br>I always try to develop my skills to be better than the previous day
 
 
