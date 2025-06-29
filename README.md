@@ -19,4 +19,12 @@ I am an informatics engineering student at Maulana Malik Ibrahim Islamic Univers
 ---
 [![](https://visitcount.itsvg.in/api?id=sannn-s&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sannn-s/sannn-s/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sannn-s/sannn-s/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sannn-s/sannn-s/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
