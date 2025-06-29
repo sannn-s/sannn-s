@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there👋 I'am Ahsan</h1>
 
-# About Me:
+<h3 align="left">👩‍💻  About Me</h3>
 I am an informatics engineering student at Maulana Malik Ibrahim Islamic University, Malang. <br>I am adaptable, collaborative, and enjoy working in a team. <br>I always try to develop my skills to be better than the previous day
 
 
