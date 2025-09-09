@@ -10,10 +10,6 @@ I believe that consistency, curiosity, and a growth mindset are the keys to beco
 ## <h3 align="left">My Social Media</h3>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/welpleddd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aanahsan46@gmail.com) 
 
-# <h3 align="left">📊 GitHub Stats</h3>
-![](https://github-readme-stats.vercel.app/api?username=sannn-s&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sannn-s&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sannn-s&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### <h3 align="left">✍️ Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
