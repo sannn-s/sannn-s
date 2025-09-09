@@ -14,7 +14,7 @@ I believe that consistency, curiosity, and a growth mindset are the keys to beco
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
 |  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan_1](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan") | [Mobile_1](https://github.com/sannn-s/Mobile_Praktikum1) |
 |  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Laporan_2](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan")| [Mobile_2](https://github.com/sannn-s/Mobile_Praktikum2)|
-|  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Laporan_3](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan")| [Template laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan")|
+|  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Laporan_3](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan")| [Mobile_3](https://github.com/sannn-s/Mobile_Praktikum3)|
 
 
 ### <h3 align="left">✍️ Random Dev Quote</h3>
