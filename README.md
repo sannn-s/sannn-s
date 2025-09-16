@@ -15,7 +15,9 @@ I believe that consistency, curiosity, and a growth mindset are the keys to beco
 |  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | Coming Soon | [Mobile_1](https://github.com/sannn-s/Mobile_Praktikum1) |
 |  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Laporan_2](https://docs.google.com/document/d/130gZ4dHQgnoaTyqEqyOAVuZ5mYp7ma0X/edit)| [Mobile_2](https://github.com/sannn-s/Mobile_Praktikum2)|
 |  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Laporan_3](https://docs.google.com/document/d/1MSCqf-WB-C1Pri0pNnt_6IYj1qqeKhns/edit)| [Mobile_3](https://github.com/sannn-s/Mobile_Praktikum3)|
-|  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded  | [Laporan_4](https://docs.google.com/document/d/1kXzjauXi6aiI6xJU2BNws0vBFqByFLuy/edit)| [Mobile_4](https://github.com/sannn-s/Mobile_Praktikum4)|
+|  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded | [Laporan_4](https://docs.google.com/document/d/1kXzjauXi6aiI6xJU2BNws0vBFqByFLuy/edit)| [Mobile_4](https://github.com/sannn-s/Mobile_Praktikum4)|
+|  5 | 17-09-2025  | 03  | Widget SizedBox, Spacer, dan Card | Coming Soon | [Mobile_5](https://github.com/sannn-s/Mobile_Praktikum5)|
+|  6 | 17-09-2025  | 03  | Widget GridView dan ListView | Coming Soon | [Mobile_6](https://github.com/sannn-s/Mobile_Praktikum6)|
 
 
 ### <h3 align="left">✍️ Random Dev Quote</h3>
