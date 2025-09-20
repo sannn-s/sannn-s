@@ -12,7 +12,7 @@ I believe that consistency, curiosity, and a growth mindset are the keys to beco
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Code |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | Coming Soon | [Mobile_1](https://github.com/sannn-s/Mobile_Praktikum1) |
+|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan_1](https://docs.google.com/document/d/1QQLN80NZEEsTB2OF_eNYxu3GIkwtU_zT/edit) | [Mobile_1](https://github.com/sannn-s/Mobile_Praktikum1) |
 |  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Laporan_2](https://docs.google.com/document/d/130gZ4dHQgnoaTyqEqyOAVuZ5mYp7ma0X/edit)| [Mobile_2](https://github.com/sannn-s/Mobile_Praktikum2)|
 |  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Laporan_3](https://docs.google.com/document/d/1MSCqf-WB-C1Pri0pNnt_6IYj1qqeKhns/edit)| [Mobile_3](https://github.com/sannn-s/Mobile_Praktikum3)|
 |  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded | [Laporan_4](https://docs.google.com/document/d/1kXzjauXi6aiI6xJU2BNws0vBFqByFLuy/edit)| [Mobile_4](https://github.com/sannn-s/Mobile_Praktikum4)|
