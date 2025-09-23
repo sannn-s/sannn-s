@@ -19,7 +19,8 @@ I believe that consistency, curiosity, and a growth mindset are the keys to beco
 |  5 | 17-09-2025  | 03  | Widget SizedBox, Spacer, dan Card | [Laporan_5](https://docs.google.com/document/d/1KI87xcTgQdREOrgs5jiuMKg7KeNVmv7R/edit) | [Mobile_5](https://github.com/sannn-s/Mobile_Praktikum5)|
 |  6 | 17-09-2025  | 03  | Widget GridView dan ListView | [Laporan_6](https://docs.google.com/document/d/1FLLTVPYjhVZ839dKwuya79aIbRpsE5GY/edit) | [Mobile_6](https://github.com/sannn-s/Mobile_Praktikum6)|
 |  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan_7](https://docs.google.com/document/d/1FLLTVPYjhVZ839dKwuya79aIbRpsE5GY/edit) | [Mobile_7](https://github.com/sannn-s/Mobile_Praktikum7)|
-|  8 | 24-09-2025  | 04  | Wait a minute | [Laporan_8](https://docs.google.com/document/d/1FLLTVPYjhVZ839dKwuya79aIbRpsE5GY/edit) | [Mobile_8](https://github.com/sannn-s/Mobile_Praktikum8)|
+|  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named
+Route | [Laporan_8](https://docs.google.com/document/d/1FLLTVPYjhVZ839dKwuya79aIbRpsE5GY/edit) | [Mobile_8](https://github.com/sannn-s/Mobile_Praktikum8)|
 
 
 ### <h3 align="left">✍️ Random Dev Quote</h3>
