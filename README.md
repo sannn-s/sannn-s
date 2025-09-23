@@ -18,7 +18,7 @@ I believe that consistency, curiosity, and a growth mindset are the keys to beco
 |  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded | [Laporan_4](https://docs.google.com/document/d/1kXzjauXi6aiI6xJU2BNws0vBFqByFLuy/edit)| [Mobile_4](https://github.com/sannn-s/Mobile_Praktikum4)|
 |  5 | 17-09-2025  | 03  | Widget SizedBox, Spacer, dan Card | [Laporan_5](https://docs.google.com/document/d/1KI87xcTgQdREOrgs5jiuMKg7KeNVmv7R/edit) | [Mobile_5](https://github.com/sannn-s/Mobile_Praktikum5)|
 |  6 | 17-09-2025  | 03  | Widget GridView dan ListView | [Laporan_6](https://docs.google.com/document/d/1FLLTVPYjhVZ839dKwuya79aIbRpsE5GY/edit) | [Mobile_6](https://github.com/sannn-s/Mobile_Praktikum6)|
-|  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan_7](https://docs.google.com/document/d/1FLLTVPYjhVZ839dKwuya79aIbRpsE5GY/edit) | [Mobile_7](https://github.com/sannn-s/Mobile_Praktikum7)|
+|  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan_7](https://docs.google.com/document/d/1a-MSXdiuQ3K3f4M3AE35-M-E8DAGesz4/edit) | [Mobile_7](https://github.com/sannn-s/Mobile_Praktikum7)|
 |  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan_8](https://docs.google.com/document/d/1FLLTVPYjhVZ839dKwuya79aIbRpsE5GY/edit) | [Mobile_8](https://github.com/sannn-s/Mobile_Praktikum8)|
 
 
