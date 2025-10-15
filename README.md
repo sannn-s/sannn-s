@@ -22,7 +22,7 @@ I believe that consistency, curiosity, and a growth mindset are the keys to beco
 |  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan_8](https://docs.google.com/document/d/1aQTDFke3AEj2FUxxfqM5m1WZjlJ8jLBn/edit) | [Mobile_8](https://github.com/sannn-s/Mobile_Praktikum8)|
 |  9 | 1-10-2025  | 05  | StatefulWidget | [Laporan_9](https://docs.google.com/document/d/1WscUVjKX4x2Ud7Bk0Sgg639F_sUGJfUf/edit) | [Mobile_9](https://github.com/sannn-s/Mobile_Praktikum9)|
 |  10 | 8-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan_10](https://docs.google.com/document/d/1Zmhdf9d3jZHjK3TeT2Ds8H88fbvZmE0Q/edit) | [Mobile_10](https://github.com/sannn-s/Mobile_Praktikum10)|
-|  11 | 15-10-2025  | 07  | Manajemen State dengan GetX | [Laporan_11](https://docs.google.com/document/d/1Zmhdf9d3jZHjK3TeT2Ds8H88fbvZmE0Q/edit) | [Mobile_11](https://github.com/sannn-s/Mobile_Praktikum11)|
+|  11 | 15-10-2025  | 07  | Manajemen State dengan GetX | [Laporan_11](https://docs.google.com/document/d/18gFtuc-jP641NW9C2uN4eeeekQaP6FWk/edit) | [Mobile_11](https://github.com/sannn-s/Mobile_Praktikum11)|
 
 ### <h3 align="left">✍️ Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
