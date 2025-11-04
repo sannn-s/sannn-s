@@ -24,6 +24,7 @@ I believe that consistency, curiosity, and a growth mindset are the keys to beco
 |  10 | 8-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan_10](https://docs.google.com/document/d/1Zmhdf9d3jZHjK3TeT2Ds8H88fbvZmE0Q/edit) | [Mobile_10](https://github.com/sannn-s/Mobile_Praktikum10)|
 |  11 | 15-10-2025  | 07  | Manajemen State dengan GetX | [Laporan_11](https://docs.google.com/document/d/18gFtuc-jP641NW9C2uN4eeeekQaP6FWk/edit) | [Mobile_11](https://github.com/sannn-s/Mobile_Praktikum11)|
 |  12 | 28-10-2025  | 08  | Ujian Tengah Semester | [Laporan UTS](https://docs.google.com/document/d/18gFtuc-jP641NW9C2uN4eeeekQaP6FWk/edit) | [UTS](https://github.com/sannn-s/UTS)|
+|  13 | 5-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter | [Laporan_12](https://docs.google.com/document/d/18gFtuc-jP641NW9C2uN4eeeekQaP6FWk/edit) | [Mobile_12](https://github.com/sannn-s/Mobile_Praktikum12)|
 
 ### <h3 align="left">✍️ Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
