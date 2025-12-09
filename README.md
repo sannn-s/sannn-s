@@ -23,10 +23,11 @@ I believe that consistency, curiosity, and a growth mindset are the keys to beco
 |  9 | 1-10-2025  | 05  | StatefulWidget | [Laporan_9](https://docs.google.com/document/d/1WscUVjKX4x2Ud7Bk0Sgg639F_sUGJfUf/edit) | [Mobile_9](https://github.com/sannn-s/Mobile_Praktikum9)|
 |  10 | 8-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan_10](https://docs.google.com/document/d/1Zmhdf9d3jZHjK3TeT2Ds8H88fbvZmE0Q/edit) | [Mobile_10](https://github.com/sannn-s/Mobile_Praktikum10)|
 |  11 | 15-10-2025  | 07  | Manajemen State dengan GetX | [Laporan_11](https://docs.google.com/document/d/18gFtuc-jP641NW9C2uN4eeeekQaP6FWk/edit) | [Mobile_11](https://github.com/sannn-s/Mobile_Praktikum11)|
-|  12 | 28-10-2025  | 08  | Ujian Tengah Semester | [Laporan UTS](https://drive.google.com/file/d/16ACwryKAHGSvzbEtUti10gdFQxlxaZ7K/view?usp=drive_link) | [UTS](https://github.com/sannn-s/UTS)|
+|  12 | 28-10-2025  | 08  | Ujian Tengah Semester | [Laporan UTS](https://drive.google.com/file/d/16ACwryKAHGSvzbEtUti10gdFQxlxaZ7K/view?usp=drive_link) | [UTS](https://github.com/sannn-s/FunQuizApps)|
 |  13 | 5-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter | [Laporan_12](https://docs.google.com/document/d/1ODD6v5twj4d4t-nm1Lr_qV1ZL1aeMy6c/edit) | [Mobile_12](https://github.com/sannn-s/Mobile_Praktikum12)|
 |  14 | 12-11-2025  | 10  | Akses Lokasi dengan GPS di Flutter 2 | [Laporan_13](https://docs.google.com/document/d/1LIzh_GPvI3GHGvfvtU63no92poVz8f2a/edit) | [Mobile_13](https://github.com/sannn-s/Mobile_Praktikum13)|
 |  15 | 19-11-2025  | 11  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan_14](https://docs.google.com/document/d/13qctabdEtVVRkJMRaX9Ab6LitkMNkRX5/edit) | [Mobile_14](https://github.com/sannn-s/Mobile_Praktikum14)|
+|  16 | 10-12-2025  | 12  | Ujian Akhir Semester | [Laporan UAS](https://drive.google.com/file/d/16ACwryKAHGSvzbEtUti10gdFQxlxaZ7K/view?usp=drive_link) | [UAS](https://github.com/sannn-s/FunQuizApps)|
 
 ### <h3 align="left">✍️ Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
