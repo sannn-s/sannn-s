@@ -27,7 +27,7 @@ I believe that consistency, curiosity, and a growth mindset are the keys to beco
 |  13 | 5-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter | [Laporan_12](https://docs.google.com/document/d/1ODD6v5twj4d4t-nm1Lr_qV1ZL1aeMy6c/edit) | [Mobile_12](https://github.com/sannn-s/Mobile_Praktikum12)|
 |  14 | 12-11-2025  | 10  | Akses Lokasi dengan GPS di Flutter 2 | [Laporan_13](https://docs.google.com/document/d/1LIzh_GPvI3GHGvfvtU63no92poVz8f2a/edit) | [Mobile_13](https://github.com/sannn-s/Mobile_Praktikum13)|
 |  15 | 19-11-2025  | 11  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan_14](https://docs.google.com/document/d/13qctabdEtVVRkJMRaX9Ab6LitkMNkRX5/edit) | [Mobile_14](https://github.com/sannn-s/Mobile_Praktikum14)|
-|  16 | 10-12-2025  | 12  | Ujian Akhir Semester | [Laporan UAS](https://drive.google.com/file/d/16ACwryKAHGSvzbEtUti10gdFQxlxaZ7K/view?usp=drive_link) | [UAS](https://github.com/sannn-s/FunQuizApps)|
+|  16 | 10-12-2025  | 12  | Ujian Akhir Semester | [Laporan UAS](https://drive.google.com/file/d/1tVX9lw83zcaXmiXuavq39aB8-ZAQnLbm/view?usp=drive_link) | [UAS](https://github.com/sannn-s/FunQuizApps)|
 
 ### <h3 align="left">✍️ Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
