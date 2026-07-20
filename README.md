@@ -1,4 +1,4 @@
- <h1 align="center">Hi there👋 I'am Muhammad Ahsan Azhari</h1>
+ <h1 align="center">Hi there I'am Muhammad Ahsan Azhari</h1>
 
  <h3 align="left">👩‍💻  About Me</h3>
 <p>I am an Informatics Engineering student at Maulana Malik Ibrahim Islamic University, Malang, with a strong passion for web development, particularly in the frontend field. I am an adaptable and collaborative individual who thrives in a team-oriented environment, always eager to share knowledge and learn from others.
